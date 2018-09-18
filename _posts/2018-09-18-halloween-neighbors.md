@@ -1,6 +1,6 @@
 ---
 ID: 115
-post_title: Halloween Neighbors
+post_title: Hallowed Neighbors
 author: RadicalRedDustPixieDuster
 post_excerpt: >
   A young man is fully conscious for his
