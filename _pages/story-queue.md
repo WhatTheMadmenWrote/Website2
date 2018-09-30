@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-30 21:01:43
 ---
-
-[tabby title="New Works"]
+[tabby title="Pending Review"]
 
 [ic_add_posts post_type='works']
 
