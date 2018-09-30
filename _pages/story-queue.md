@@ -11,11 +11,11 @@ post_date: 2018-09-30 21:01:43
 ---
 [tabby title="New Works"]
 
-Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
+[ic_add_posts post_type='works']
 
 [tabby title="Ready for Editing"]
 
-Lay down in your way catnip stuck in a tree, sunbathe kittens.
+[ic_add_posts post_type='works']
 
 [tabby title="Published"]
 
