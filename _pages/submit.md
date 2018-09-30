@@ -17,7 +17,3 @@ post_date: 2018-09-04 02:36:23
 [wpuf_form id="156"]
 
 [tabbyending]
-
-&nbsp;
-
-&nbsp;
