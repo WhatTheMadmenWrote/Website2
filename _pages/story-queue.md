@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-30 21:01:43
 ---
+
 [tabby title="New Works"]
 
 [ic_add_posts post_type='works']
@@ -19,6 +20,6 @@ post_date: 2018-09-30 21:01:43
 
 [tabby title="Published"]
 
-sleep in the sink climb the curtains attack, give me fish.
+[ic_add_posts post_type='post']
 
 [tabbyending]
