@@ -9,13 +9,13 @@ permalink: >
 published: true
 post_date: 2018-09-30 21:01:43
 ---
+[tabby title="Draft"]
+
+[ic_add_posts post_type='gdoc' post_status='draft']
+
 [tabby title="Pending Review"]
 
-[ic_add_posts post_type='gdoc' post_status='pending']
-
-[tabby title="Ready for Editing"]
-
-[ic_add_posts post_type='gdoc' post_status='published']
+[ic_add_posts post_type='gdoc' post_status='pending review']
 
 [tabby title="Published"]
 
