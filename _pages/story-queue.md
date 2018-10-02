@@ -11,14 +11,14 @@ post_date: 2018-09-30 21:01:43
 ---
 [tabby title="Draft"]
 
-[ic_add_posts post_type='gdoc' post_status='draft']
+[ic_add_posts post_type='gdoc' post_status='open']
 
 [tabby title="Pending Review"]
 
-[ic_add_posts post_type='gdoc' post_status='pending review']
+[ic_add_posts post_type='gdoc' post_status='in-progress']
 
 [tabby title="Published"]
 
-[ic_add_posts post_type='post']
+[ic_add_posts post_type='post' post_status='published']
 
 [tabbyending]
