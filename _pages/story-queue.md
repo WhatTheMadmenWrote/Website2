@@ -17,8 +17,12 @@ post_date: 2018-09-30 21:01:43
 
 [ic_add_posts post_type='gdoc' status='in-progress']
 
-[tabby title="Published"]
+[tabby title="Complete"]
 
 [ic_add_posts post_type='gdoc' status="completed']
+
+[tabby title="Published"]
+
+[ic_add_posts post_type='post']
 
 [tabbyending]
