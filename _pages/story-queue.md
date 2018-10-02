@@ -19,6 +19,6 @@ post_date: 2018-09-30 21:01:43
 
 [tabby title="Published"]
 
-[ic_add_posts post_type='post' post_status='published']
+[ic_add_posts post_type='post']
 
 [tabbyending]
