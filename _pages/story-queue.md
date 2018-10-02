@@ -11,7 +11,7 @@ post_date: 2018-09-30 21:01:43
 ---
 [tabby title="Pending Review"]
 
-[ic_add_posts post_type='document' post_status='pending review']
+[ic_add_posts post_type='gdoc' post_status='pending review']
 
 [tabby title="Ready for Editing"]
 
