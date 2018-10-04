@@ -19,7 +19,7 @@ post_date: 2018-09-30 21:01:43
 
 [tabby title="Complete"]
 
-[ic_add_posts post_type='gdoc' status="completed']
+[ic_add_posts post_type='gdoc' status="complete']
 
 [tabby title="Published"]
 
