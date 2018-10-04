@@ -11,18 +11,18 @@ post_date: 2018-09-30 21:01:43
 ---
 [tabby title="Draft"]
 
-[ic_add_posts post_type='gdoc' status='open']
+[ic_add_posts post_type='works' ]
 
-[tabby title="In Progress"]
+[tabby title="Google Documents"]
 
-[ic_add_posts post_type='gdoc' status='in-progress']
+[ic_add_posts post_type='gdoc']
 
-[tabby title="Complete"]
+[tabby title="Ready to Publish"]
 
-[ic_add_posts post_type='gdoc' status="complete']
+[ic_add_posts post_type='ready']
 
 [tabby title="Published"]
 
-[ic_add_posts post_type='post']
+[ic_add_posts post_type='post' status='published']
 
 [tabbyending]
