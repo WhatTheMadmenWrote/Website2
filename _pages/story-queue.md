@@ -25,8 +25,4 @@ post_date: 2018-09-30 21:01:43
 
 [ic_add_posts post_type='post']
 
-[tabby title="Archived"]
-
-[ic_add_posts post_type='archive']
-
 [tabbyending]
