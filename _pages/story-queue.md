@@ -13,7 +13,7 @@ post_date: 2018-09-30 21:01:43
 
 [ic_add_posts post_type='gdoc' status='open']
 
-[tabby title="Pending Review"]
+[tabby title="In Progress"]
 
 [ic_add_posts post_type='gdoc' status='in-progress']
 
